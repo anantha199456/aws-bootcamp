@@ -15,3 +15,7 @@ The Module performs the following Functions:
 # Architecture 
 
 ![alt text](https://github.com/anantha199456/aws-bootcamp/blob/main/Assignment-1/architecture-new.JPG)
+
+# Output result using Step Function.
+
+https://github.com/anantha199456/aws-bootcamp/blob/main/Assignment-1/stepfunctions_graph%20(1).png
