@@ -14,3 +14,4 @@ The Module performs the following Functions:
 
 # Architecture 
 
+![alt text](https://github.com/anantha199456/aws-bootcamp/blob/main/Assignment-1/architecture-new.JPG)
