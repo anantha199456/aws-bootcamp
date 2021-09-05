@@ -21,3 +21,4 @@ The Module performs the following Functions:
 ![alt text](https://github.com/anantha199456/aws-bootcamp/blob/main/Assignment-1/stepfunctions_graph%20(1).png)
 
 # Athena summary results :
+![alt text](https://github.com/anantha199456/aws-bootcamp/blob/main/Assignment-1/athena-output.JPG)
